@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DE3-ROB1-CHESS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/franka_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geometric_shapes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moveit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moveit_msgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moveit_resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moveit_tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moveit_visual_tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/srdfdom" vcs="Git" />
+  </component>
+</project>
